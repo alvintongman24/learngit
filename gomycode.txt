@@ -1,0 +1,49 @@
+What You're Aiming For:
+I aim to become a software developer because i enjoy it and getting paid to do it is a bonus for me . i want to be best at what i love.
+
+Section 1: General Awareness
+Web Development Basics:
+
+What is web development, and why is it essential in the context of the internet?
+Web developement in my own point of view is an art that discribes or show the concept of what an individual or coperation is passing  to the world through the internet.
+The internet space is a worldwide web that reaches  thousands of people out there , the internet is a medium that helps show the website to billions of people out there ,
+ what really attract people to a certain place? , if not the beauty and colors of a gem . The art kept to a website could attract lot of people into your business space,
+ Website has helped us humans in our next step of evolution. Connectivity,functionality and fast spreed of information in secornds as all been possible through this mediums. 
+
+HTML Knowledge:
+
+
+Have you heard of HTML? If yes, what does HTML stand for, and what is its primary purpose in web development?
+
+HTML (hyper text makeup language): It's a skeleton of a website that helps desplay all the text  aquired to pass information to the users
+
+Section 2: Familiarity with CSS
+CSS Understanding:
+
+Are you familiar with CSS? If yes, briefly explain what CSS is used for in web development.
+
+CSS is the art of a website, it helps attract users to your website.It's the coloful part of website that shows the beauty of your work.
+This is were 80% of your frontend developement skill is been shown.
+
+Section 3: JavaScript and Its Importance
+Introduction to JavaScript:
+ 
+Have you heard of JavaScript? If yes, what is JavaScript, and why is it crucial for building interactive websites?
+Javascript has to do with the functionality of the website , this is were series of commands are passed in order to archive the main objective of that website.
+
+Section 4: Introduction to React and Node.js
+React and Node.js Awareness:
+Are you familiar with React and Node.js? If yes, provide a brief description of what React and Node.js are commonly used for in web development.
+
+React js is a formwork for javascript and html , it helps reduce the long line of codes and makes it simpler and faster for developers.while Nodejs could be seen as code been written by series of developers in order to reduce the work frame of a developer , its like a framework
+
+Section 5: Bonus Question
+Learning Intentions:
+Why do you want to learn web development, and what do you hope to achieve by acquiring skills in HTML, CSS, JavaScript, React, and Node.js?
+
+Just in few words: To show my art through frontend developement and make my own impact in this big blue world of ours, by creating an idea that could help in the next evolution of our species with the knowledge in backend functionality .
+
+Instructions
+Answer the questions with the manner you like.
+ 
+Your instructor will read all your answer and rank you based on that
